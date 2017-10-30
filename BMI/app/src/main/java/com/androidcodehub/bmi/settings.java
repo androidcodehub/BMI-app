@@ -231,7 +231,7 @@ private void shareTextUrl() {
     // Add data to the intent, the receiving app will decide
     // what to do with it.
     share.putExtra(Intent.EXTRA_SUBJECT, "");
-    share.putExtra(Intent.EXTRA_TEXT, "https://play.google.com/store/apps/details?id=com.bmiapp");
+    share.putExtra(Intent.EXTRA_TEXT, "");
  
     startActivity(Intent.createChooser(share, "Share App"));
 
