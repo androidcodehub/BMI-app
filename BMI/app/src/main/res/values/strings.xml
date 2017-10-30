@@ -1,0 +1,18 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">BMI Calculator</string>
+    <string name="action_settings">Logout</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+       <string name="welcome">Welcome</string>
+       
+         <string name="all">All</string>
+       
+    
+  
+
+    
+    
+    
+</resources>
+
